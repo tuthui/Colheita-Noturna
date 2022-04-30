@@ -9,7 +9,7 @@ Idealização e Direção: Thui
 Programação e scripts: Thui  
 Arte e Animações: Thui  
 
-Músicas:
+Músicas:  
 (Cutscene) Trilha inicial - Thui  
 (in game music) Centuries - 8 Bit Universe  
 (in game music) Falling Down - 8 Bit Universe  
