@@ -13,8 +13,8 @@ Arte e Animações: Thui
 
 Músicas:  
 (Cutscene) Trilha inicial - Thui  
-(in game music) Centuries - 8 Bit Universe  
-(in game music) Falling Down - 8 Bit Universe  
-(in game music) Break My Stride - 8 Bit Universe  
+(in game music) [Centuries - 8 Bit Universe](https://www.youtube.com/watch?v=wjFH3oC6SOM)  
+(in game music) [Falling Down - 8 Bit Universe](https://www.youtube.com/watch?v=FTlUSMqOMiY)  
+(in game music) [Break My Stride - 8 Bit Universe](https://www.youtube.com/watch?v=Af6LsS756OI)  
 
 ©thui 2022
