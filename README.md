@@ -5,7 +5,7 @@
 -
 Colheita Noturna - A Revolta Das Abóboras é um jogo estilo shooter sobre um pequeno fazendeiro, que se vê amedrontado por abóboras que criaram vida.  
 
-O projeto foi completamente feito e desenvolvido no scratch, e convertido em .html com [esse site](https://sheeptester.github.io/htmlifier/) para pudesse ser jogado completamente online de forma mais prática. O arquivo original do projeto no scratch (.sb3) ainda pode ser encontrado na aba releases.
+O projeto foi completamente feito e desenvolvido no scratch, e convertido em .html com [esse site](https://sheeptester.github.io/htmlifier/) para que pudesse ser jogado completamente online de forma mais prática. O arquivo original do projeto no scratch (.sb3) ainda pode ser encontrado na aba releases.
 
 📌Créditos
 -
